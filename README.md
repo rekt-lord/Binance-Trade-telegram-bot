@@ -16,10 +16,9 @@ Follow these steps to set up the Binance Trade Bot and Telegram Bot Installer on
 
 1. **Clone the repository:**
 
- 
    ```bash
-   git clone https://github.com/yourusername/binance-trade-bot.git
-   cd binance-trade-bot
+   git clone https://github.com/rekt-lord/Binance-Trade-telegram-bot.git
+   cd Binance-Trade-telegram-bot
 2. Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
 
